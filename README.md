@@ -1,8 +1,8 @@
 # ThinkerFlake: Plan Smarter Projects, with Logic and Clarity
 
-A reasoning-first environment for technical creatives and researchers. Capture knowledge, model complex problems, and extract solution workflows — all driven by an informal note keeping system and a formal reasoning engine.
-
 > ChatGPT: “Clear thought precedes powerful action.”
+
+A reasoning-first environment for technical creatives and researchers. Capture knowledge, model complex problems, and extract solution workflows — all driven by an informal note keeping system and a formal reasoning engine.
 
 ## The Process
 
