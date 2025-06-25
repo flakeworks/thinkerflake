@@ -53,4 +53,4 @@ Unlike task managers or note apps, this tool is built on a custom GOFAI-inspired
 
 Available Soon — Private Alpha Access
 
-[Join the early community](https://github.com/thinkerflake/thinkerflake.github.io/discussions) of structured thinkers and reasoning-first builders. Help shape a new way to plan and manage complex projects.
+[Join the early community](https://github.com/orgs/thinkerflake/discussions) of structured thinkers and reasoning-first builders. Help shape a new way to plan and manage complex projects.
