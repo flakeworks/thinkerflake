@@ -41,9 +41,3 @@ We choose to enumerate three representative use examples.
 - **Capture Knowledge:** list market data, feature ideas, and constraints.
 - **Model the Problem:** reason through feasibility, market need, and risk tradeoffs.
 - **Deduce the Workflow:** generate a roadmap for the selected concept and a revisit plan for the others.
-
-## Call to Action
-
-Available Soon - Private Alpha Access
-
-[Join the early community](https://github.com/orgs/flakeworks/discussions) of structured thinkers and reasoning-first builders. Help shape a new way to plan, manage, and organize complex decisions, projects, and documentation.
