@@ -2,16 +2,16 @@
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
-Thinkerflake is a reasoning-first environment for managing projects, coordinating teams, and self-organizing complex personal goals. It helps you capture knowledge, model problems with formal logic, and generate actionable workflows - all within a unified, structured workspace. Informal notes and ideas are transformed into formal problem models, from which clear, traceable workflows are derived. Every decision is backed by logical reasoning, making your process transparent and explainable. Whether you’re leading a team or managing your own ambitions, Thinkerflake supports thoughtful organization, structured problem-solving, and future-ready documentation - all in one integrated space.
+Thinkerflake is a reasoning-first environment for managing projects, coordinating teams, and self-organizing complex personal goals. It helps you capture knowledge, model problems with formal logic, and generate actionable workflows - all within a unified, structured workspace. Informal notes and ideas are transformed into formal problem models, from which clear, traceable workflows are derived. Every decision is backed by logical reasoning, making the process transparent and explainable. Whether you’re leading a team or managing your own ambitions, Thinkerflake supports thoughtful organization, structured problem-solving, and future-ready documentation - all in one integrated space.
 
 
 ## The Process
 
 Idea to execution, in 4 steps (`Knowledge -> Logic -> Action -> Feedback`):
 
-1. **Capture Knowledge:** Collect notes, source materials, and technical data for your project or problem. Keep informal notes within a unique branching mind map.
+1. **Capture Knowledge:** Collect notes, source materials, and technical data for a project or problem. Keep informal notes within a unique branching mind map.
 2. **Model the Problem:** Use formal reasoning structures to map out goals, constraints, and dependencies. Formally model decisions and plans with structured logic, not intuition alone.
-3. **Derive a Solution:** Deduce a clear, actionable solution workflow directly from your reasoning model. Automatically generate tasks and sequences based on your logical problem setup.
+3. **Derive a Solution:** Deduce a clear, actionable solution workflow directly from the reasoning model. Automatically generate tasks and sequences based on the logical problem setup.
 4. **Produce Feedback:** Create informal notes describing the solution to the problem. Keep the solution notes for the future reference.
 
 ## Who It’s For
@@ -30,7 +30,7 @@ We choose to enumerate three representative use examples.
 
 - **Capture Knowledge:** gather system requirements, API specs, and tech constraints.
 - **Model the Problem:** logically connect module dependencies, risk areas, and interface protocols.
-- **Derive a Solution:** auto-generate a development plan and testing milestones derived from your reasoning tree.
+- **Derive a Solution:** auto-generate a development plan and testing milestones derived from the reasoning tree.
 - **Produce Feedback:** record notes on implementation outcomes, challenges faced, and lessons for future builds.
 
 ### 2. Coordinate a Complex, Multi-Phase Team Project
