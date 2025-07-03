@@ -6,7 +6,7 @@ A reasoning-first environment for self or team organizing and making complex dec
 
 ## The Process
 
-Idea to execution, in 3 steps (`Knowledge -> Logic -> Action`):
+Idea to execution, in 4 steps (`Knowledge -> Logic -> Action -> Feedback`):
 
 1. **Capture Knowledge:** Collect notes, source materials, and technical data for your project or problem. Keep informal notes within a unique branching mind map.
 2. **Model the Problem:** Use formal reasoning structures to map out goals, constraints, and dependencies. Formally model decisions and plans with structured logic, not intuition alone.
