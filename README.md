@@ -1,4 +1,4 @@
-# ThinkerFlake promo material: A Thinking Space for Complex Projects, Teams, and Self-Organizers
+# ThinkerFlake promo material: A Thinking Space for Complex Projects, Team-Organizers, and Self-Organizers
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
