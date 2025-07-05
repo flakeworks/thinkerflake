@@ -2,12 +2,11 @@
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
-Thinkerflake is a reasoning-first environment for managing projects, coordinating teams, and self-organizing complex personal goals. It helps you capture knowledge, model problems with formal logic, and generate actionable workflows - all within a unified, structured workspace. Informal notes and ideas are transformed into formal problem models, from which clear, traceable workflows are derived. Every decision is backed by logical reasoning, making the process transparent and explainable. Whether you’re leading a team or managing your own ambitions, Thinkerflake supports thoughtful organization, structured problem-solving, and future-ready documentation - all in one integrated space.
-
+Thinkerflake guides you through a structured, reasoning-driven process to turn ideas into actionable outcomes. It begins by capturing all relevant knowledge — notes, data, and references — organized in an intuitive, branching mind map. From there, you formally model the problem, defining goals, constraints, and dependencies using clear logical structures. This reasoning foundation allows you to derive a precise, step-by-step solution workflow, automatically translating logic into actionable tasks. Finally, after executing the solution, you reflect on the outcome by producing informal feedback notes — preserving insights, lessons, and context for future projects. This cycle ensures that every decision is reasoned, every action is intentional, and every experience adds to a growing body of usable knowledge.
 
 ## The Process
 
-Idea to execution, in 4 steps (`Knowledge -> Problem -> Solution -> Feedback`):
+`Knowledge -> Problem -> Solution -> Feedback`:
 
 1. **Capture Knowledge:** Collect notes, source materials, and technical data for a project or problem. Keep informal notes within a unique branching mind map.
 2. **Model the Problem:** Use formal reasoning structures to map out goals, constraints, and dependencies. Formally model decisions and plans with structured logic, not intuition alone.
