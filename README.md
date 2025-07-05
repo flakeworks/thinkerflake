@@ -2,7 +2,7 @@
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
-Thinkerflake is a reasoning-first environment for managing projects, coordinating teams, and self-organizing complex personal goals. It helps you capture knowledge, model problems with formal logic, and generate actionable workflows - all within a unified, structured workspace. Informal notes and ideas are transformed into formal problem models, from which clear, traceable workflows are derived. Every decision is backed by logical reasoning, making the process transparent and explainable. Whether you’re leading a team or managing one's own ambitions, Thinkerflake supports thoughtful organization, structured problem-solving, and future-ready documentation - all in one integrated space.
+Thinkerflake is a reasoning-first environment for managing projects, coordinating teams, and self-organizing complex personal goals. It helps you capture knowledge, model problems with formal logic, and generate actionable workflows - all within a unified, structured workspace. Informal notes and ideas are transformed into formal problem models, from which clear, traceable workflows are derived. Every decision is backed by logical reasoning, making the process transparent and explainable. Whether you’re leading a team or managing your own ambitions, Thinkerflake supports thoughtful organization, structured problem-solving, and future-ready documentation - all in one integrated space.
 
 
 ## The Process
