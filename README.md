@@ -1,4 +1,4 @@
-# ThinkerFlake promo material: An Environment for Programmers Helping With a Thinking Space for Complex Projects, Team-Organizers, and Self-Organizers
+# ThinkerFlake promo material: An Environment for Power Users Helping With a Thinking Space for Complex Projects, Team-Organizers, and Self-Organizers
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
@@ -16,7 +16,7 @@ Idea to execution, in 4 steps (`Knowledge -> Problem -> Solution -> Feedback`):
 
 ## Who It’s For
 
-Thinkerflake is meant to be used by programmers to help with note keeping and decision making processes, especially for:
+Thinkerflake is meant to be used by power users to help with note keeping and decision making processes, especially for:
 
 - Systems thinkers solving technical problems
 - Team leads managing employee workflow coordination
