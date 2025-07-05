@@ -16,7 +16,7 @@ Idea to execution, in 4 steps (`Knowledge -> Problem -> Solution -> Feedback`):
 
 ## Who It’s For
 
-Thinkerflake may be used in various cases to help with note keeping and decision making processes, especially for:
+Thinkerflake is meant to be used by programmers to help with note keeping and decision making processes, especially for:
 
 - Systems thinkers solving technical problems
 - Team leads managing employee workflow coordination
