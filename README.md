@@ -1,7 +1,9 @@
-# ThinkerFlake promo material: A Thinking Space for Power Users Organizing Themselves or a Team
+# ThinkerFlake
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
+## A Thinking Space for Power Users Organizing Themselves or a Team
+ 
 Thinkerflake guides you through a structured, reasoning-driven process to turn ideas into actionable outcomes. It begins by capturing all relevant knowledge — notes, data, and references — organized in a branching mind map. From there, you formally model the problem, defining goals, constraints, and dependencies using logical structures. This reasoning foundation allows you to derive a precise, step-by-step solution workflow, automatically translating logic into actionable tasks. Finally, after executing the solution, you reflect on the outcome by producing informal feedback notes — preserving insights, lessons, and context for future projects. This cycle ensures that every decision is reasoned, every action is intentional, and every experience adds to a growing body of usable knowledge.
 
 ## The Process
