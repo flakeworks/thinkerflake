@@ -1,4 +1,4 @@
-# ThinkerFlake
+# thinkerflake
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
