@@ -1,8 +1,8 @@
+# thinkerflake
+
 ```
 / work in progress /
 ```
-
-# thinkerflake
 
 > “Clear thought precedes powerful action.” - ChatGPT
 
