@@ -41,9 +41,9 @@ We choose to enumerate three representative use examples.
 - **Derive a Solution:** auto-generate a phased plan with priorities, conflicts, and decision points.
 - **Produce Feedback:** document project outcomes, workflow issues, and team insights for future improvements.
 
-### 3. Automate Manufacturing Process
+### 3. Architect a Modular Software System
 
-- **Capture Knowledge:** gather specs, constraints, timing data, goals, and prior reports from the production floor.
-- **Model the Problem:** define step dependencies, throughput, safety, quality rules, and scheduling requirements.
-- **Derive a Solution:** generate control logic and task sequences optimized for speed, safety, and resource use.
-- **Produce Feedback:** record output data, delays, and insights to improve future automation efforts and redesigns.
+- **Capture Knowledge:** gather system requirements, API specs, and tech constraints.
+- **Model the Problem:** logically connect module dependencies, risk areas, and interface protocols.
+- **Derive a Solution:** auto-generate a development plan and testing milestones derived from the reasoning tree.
+- **Produce Feedback:** record notes on implementation outcomes, challenges faced, and lessons for future builds.
