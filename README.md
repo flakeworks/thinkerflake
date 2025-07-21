@@ -17,22 +17,22 @@ Thinkerflake is a thinking space for power users organizing themselves or a team
 
 ## Who It’s For
 
-Thinkerflake is meant to be used by power users to help with note keeping and decision making processes, especially for:
+Thinkerflake is meant to be used by power users to help with decision making processes, especially for:
 
-- Systems thinkers solving technical problems
-- Team leads managing employee workflow coordination
 - Knowledge ops leads managing decision-heavy projects
+- Team leads managing employee workflow coordination
+- Systems thinkers solving technical problems
 
 ## Example Use Cases
 
 We choose to enumerate three representative use examples.
 
-### 1. Architect a Modular Software System
+### 1. Decide Between Competing Product Ideas
 
-- **Capture Knowledge:** gather system requirements, API specs, and tech constraints.
-- **Model the Problem:** logically connect module dependencies, risk areas, and interface protocols.
-- **Derive a Solution:** auto-generate a development plan and testing milestones derived from the reasoning tree.
-- **Produce Feedback:** record notes on implementation outcomes, challenges faced, and lessons for future builds.
+- **Capture Knowledge:** list market data, feature ideas, and constraints.
+- **Model the Problem:** reason through feasibility, market need, and risk tradeoffs.
+- **Derive a Solution:** generate a roadmap for the selected concept and a revisit plan for the others.
+- **Produce Feedback:** note market reactions, performance data, and decision hindsight for future product cycles.
 
 ### 2. Coordinate a Complex, Multi-Phase Team Project
 
@@ -41,9 +41,9 @@ We choose to enumerate three representative use examples.
 - **Derive a Solution:** auto-generate a phased plan with priorities, conflicts, and decision points.
 - **Produce Feedback:** document project outcomes, workflow issues, and team insights for future improvements.
 
-### 3. Decide Between Competing Product Ideas
+### 3. Automate Manufacturing Process
 
-- **Capture Knowledge:** list market data, feature ideas, and constraints.
-- **Model the Problem:** reason through feasibility, market need, and risk tradeoffs.
-- **Derive a Solution:** generate a roadmap for the selected concept and a revisit plan for the others.
-- **Produce Feedback:** note market reactions, performance data, and decision hindsight for future product cycles.
+- **Capture Knowledge:** gather specs, constraints, timing data, goals, and prior reports from the production floor.
+- **Model the Problem:** define step dependencies, throughput, safety, quality rules, and scheduling requirements.
+- **Derive a Solution:** generate control logic and task sequences optimized for speed, safety, and resource use.
+- **Produce Feedback:** record output data, delays, and insights to improve future automation efforts and redesigns.
