@@ -1,3 +1,7 @@
+```
+/ work in progress /
+```
+
 # thinkerflake
 
 > “Clear thought precedes powerful action.” - ChatGPT
@@ -17,7 +21,7 @@ Thinkerflake is a thinking space for power users organizing themselves or a team
 
 ## Who It’s For
 
-Thinkerflake is meant to be used by power users to help with product making processes, especially for:
+Thinkerflake is meant to be used by power users to help with decision making and product manufactoring processes, especially for:
 
 - Knowledge ops leads managing decision-heavy projects
 - Team leads managing employee workflow coordination
@@ -47,3 +51,7 @@ We choose to enumerate three representative use examples.
 - **Model the Problem:** logically connect module dependencies, risk areas, and interface protocols.
 - **Derive a Solution:** auto-generate a development plan and testing milestones derived from the reasoning tree.
 - **Produce Feedback:** record notes on implementation outcomes, challenges faced, and lessons for future builds.
+
+```
+/ work in progress /
+```
