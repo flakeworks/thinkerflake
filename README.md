@@ -35,7 +35,7 @@ We choose to enumerate three representative use examples.
 
 - **Capture Knowledge:** list market data, feature ideas, and constraints.
 - **Model the Problem:** reason through feasibility, market need, and risk tradeoffs.
-- **Derive a Solution:** generate a roadmap for the selected concept and a revisit plan for the others.
+- **Derive a Solution:** review the product ideas, sort them by wanted criteria and select the fittest one.
 - **Produce Feedback:** note market reactions, performance data, and decision hindsight for future product cycles.
 
 ### 2. Coordinate a Complex, Multi-Phase Team Project
@@ -51,6 +51,11 @@ We choose to enumerate three representative use examples.
 - **Model the Problem:** logically connect module dependencies, risk areas, and interface protocols.
 - **Derive a Solution:** auto-generate a development plan and testing milestones derived from the reasoning tree.
 - **Produce Feedback:** record notes on implementation outcomes, challenges faced, and lessons for future builds.
+
+## Call to Action
+
+[Join the early community](https://github.com/orgs/flakeworks/discussions) of structured thinkers and reasoning-first builders. Help shape a new way to plan, manage, and organize complex decisions, projects, and production lines.
+
 
 ```
 / work in progress /
