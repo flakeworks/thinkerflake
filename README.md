@@ -35,7 +35,7 @@ We choose to enumerate three representative use examples.
 
 - **Capture Knowledge:** list market data, feature ideas, and constraints.
 - **Model the Problem:** reason through feasibility, market need, and risk tradeoffs.
-- **Derive a Solution:** review the product ideas, sort them by wanted criteria and select the fittest one.
+- **Derive a Solution:** review the product concepts, sort them by wanted criteria and select the fittest one.
 - **Produce Feedback:** note market reactions, performance data, and decision hindsight for future product cycles.
 
 ### 2. Coordinate a Complex, Multi-Phase Team Project
